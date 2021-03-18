@@ -1,0 +1,28 @@
+main{
+    max-width: 600px;
+    margin: auto;
+}
+
+.header{
+    display: inline-flex;
+    align-items: flex-end;
+}
+
+.work{
+    text-align: center;
+}
+
+.work-videos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.work-vid{
+    width:33%;
+}
+
+.work-gif{
+    width: 100%;
+    height: auto;
+}
